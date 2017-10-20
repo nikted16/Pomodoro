@@ -1,0 +1,21 @@
+body{
+  background:#303;
+  color:white;
+}
+
+
+h2{
+  display:inline;
+  position:relative;
+  color:white;
+}
+
+#clockDiv{
+   width: 350px;
+    height: 350px;
+  position:relative;
+    background: #00CED1 ;
+  border: 1px solid green;
+  border-radius:50%;
+    padding:75px 0 0;
+}
